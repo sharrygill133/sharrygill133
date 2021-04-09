@@ -1,0 +1,1 @@
+This is the folder with encrypted files of Vault, please don’t delete it!
